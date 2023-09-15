@@ -1,0 +1,113 @@
+body{
+    background-color: rgba(0, 0, 0, 0.87);
+    /* opacity: 60%; */
+}
+
+#navifation-bar{
+    background-color: black;
+    border: 1px solid black;
+    overflow: auto;
+    border-radius: 20px;
+}
+
+.navigation{
+    color: white;
+    list-style: none;
+    float: right;
+    padding: 20px;
+}
+
+#logo{
+    float: left;
+    font-family: 'Smooch', cursive;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: darkgray;
+    
+}
+
+.calculator{
+    /* border: 1px solid red; */
+    height: 518px;
+    text-align: center;
+}
+
+#display{
+    width: 1310px;
+    height: 120px;
+    
+    padding-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.562);
+    color: white;
+    font-size: 40px;
+    text-align: right;
+    border-radius: 20px;
+}
+
+.btnn{
+    height: 68px;
+    width: 260px;
+
+
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+.btn{
+    height: 68px;
+    width: 260px;
+
+
+    background-color: rgba(0, 0, 0, 0.562);
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+
+.btn:hover{
+    background-color: gainsboro;
+    color: black;
+}
+.btnn:hover{
+    background-color: gainsboro;
+    color: black;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
+
+p{
+    color: red;
+    
+    font-size: 30px;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+
+#contact{
+    color: red;
+    font-size: 20px;
+    list-style: none;
+    text-align: center;
+}
