@@ -24,7 +24,7 @@ A stylish and functional calculator user interface built using HTML and CSS. Thi
 Open index.html in your browser.
 
 🔗 Live Demo
-👉 View Project
+👉 View Project https://yashgupta7373.github.io/Calculator-In-HTML-CSS/
 
 📌 Note
 This is a front-end design prototype only. Functionality and responsiveness may be added in future versions.
